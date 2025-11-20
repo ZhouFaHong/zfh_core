@@ -1,6 +1,21 @@
 # zfh_core
 
-A new Flutter plugin project.
+## Installation 💻
+
+**❗ In order to start using Synbiodio Core you must have the [Flutter SDK][flutter_install_link] installed on your machine.**
+
+Add `synbiodio_core` to your `pubspec.yaml`:
+
+```yaml
+dependencies:
+  synbiodio_core:
+```
+
+Install it:
+
+```sh
+flutter packages get
+```
 
 ## Getting Started
 

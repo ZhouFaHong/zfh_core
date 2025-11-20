@@ -1,7 +1,7 @@
 name: zfh_core
-description: "A new Flutter plugin project."
+description: "This package is the core package under zfh, which encapsulates the underlying common functions."
 version: 0.0.1
-homepage:
+homepage: https://github.com/ZhouFaHong/zfh_core.git
 
 environment:
   sdk: ^3.10.0
