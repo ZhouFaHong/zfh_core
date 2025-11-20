@@ -4,11 +4,11 @@
 
 **❗ In order to start using Synbiodio Core you must have the [Flutter SDK][flutter_install_link] installed on your machine.**
 
-Add `synbiodio_core` to your `pubspec.yaml`:
+Add `zfh_core` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  synbiodio_core:
+  zfh_core:
 ```
 
 Install it:
