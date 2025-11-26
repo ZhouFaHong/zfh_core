@@ -1,6 +1,6 @@
 name: zfh_core
 description: "This package is the core package under zfh, which encapsulates the underlying common functions."
-version: 0.0.5
+version: 0.0.7
 homepage: https://github.com/ZhouFaHong/zfh_core.git
 
 environment:
