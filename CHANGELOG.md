@@ -1,3 +1,7 @@
+## 0.0.4
+
+* feat: add main_app_bar 🎉
+
 ## 0.0.2
 
 * feat: change some settings 🎉
