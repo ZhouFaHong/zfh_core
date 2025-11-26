@@ -1,3 +1,7 @@
+## 0.0.8
+
+* feat: add main_app_bar 🎉
+
 ## 0.0.7
 
 * feat: add main_app_bar 🎉
